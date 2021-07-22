@@ -18,4 +18,6 @@
 * [Stocks with Exposure to Cryptos](stocks-with-exposure-to-cryptos.md)
 * [Futures’ features](futures-features.md)
 * [Technical Analysis](technical-analysis.md)
+* [Short-Term Trading Strategies](short-term-trading-strategies.md)
+* [Untitled](untitled.md)
 
