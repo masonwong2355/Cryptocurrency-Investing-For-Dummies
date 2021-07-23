@@ -1,26 +1,21 @@
 # Investing Options
 
-Stocks
-
-Bonds
-
-Forex
-
-Precious metals
+* Stocks
+* Bonds
+* Forex
+* Precious metals
 
 
 
+### Terms
+
+* Capital gains \(or losses\) 
+* Income -- crypto dividends
 
 
-Capital gains \(or losses\) 
 
-Income -- crypto dividends
-
-
-
-» Staking: Holding a proof-of-stake coin in a special wallet 
-
-» Holding: Buying and holding a crypto in any wallet
+* Staking: Holding a proof-of-stake coin in a special wallet  
+* Holding: Buying and holding a crypto in any wallet
 
 
 
