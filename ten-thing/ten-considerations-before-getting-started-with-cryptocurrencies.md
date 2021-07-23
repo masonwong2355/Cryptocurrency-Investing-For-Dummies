@@ -38,4 +38,5 @@
 
 * When the markets are going against you, you can get frustrated, and when the markets are doing well, you may get overwhelmed, not knowing when to get out.
 * Telegram app or their very own rooms on websites like Reddit and BitcoinTalk
+* Find Crypto Telegram groups
 

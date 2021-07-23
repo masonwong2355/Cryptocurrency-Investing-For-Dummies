@@ -1,4 +1,4 @@
-# Resources for Cryptocurrency Investors
+# Resources
 
 ## Cryptocurrency news
 
