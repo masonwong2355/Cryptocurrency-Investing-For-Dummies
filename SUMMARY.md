@@ -20,4 +20,5 @@
 * [Technical Analysis](technical-analysis.md)
 * [Short-Term Trading Strategies](short-term-trading-strategies.md)
 * [Long-Term Investing Strategies](untitled.md)
+* [Minimizing Losses and Maximizing Gains](minimizing-losses-and-maximizing-gains.md)
 
