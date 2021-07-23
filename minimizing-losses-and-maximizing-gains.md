@@ -14,7 +14,7 @@
 
 * include measuring returns against fiat currencies \(check coins to USD -&gt; [https://www.tradingview.com/](https://www.tradingview.com/)\)
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
 ### Monitoring exchange fees, tips exchange fees minimal
 

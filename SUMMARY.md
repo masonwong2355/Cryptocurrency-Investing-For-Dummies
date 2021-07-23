@@ -21,4 +21,9 @@
 * [Short-Term Trading Strategies](short-term-trading-strategies.md)
 * [Long-Term Investing Strategies](untitled.md)
 * [Minimizing Losses and Maximizing Gains](minimizing-losses-and-maximizing-gains.md)
+* [Ichimoku and Fibonacci Techniques](ichimoku-and-fibonacci-techniques.md)
+* [Ten Considerations Before Getting Started with Cryptocurrencies](ten-considerations-before-getting-started-with-cryptocurrencies.md)
+* [Ten Possible Moves When Your Crypto Portfolio Is Down](ten-possible-moves-when-your-crypto-portfolio-is-down.md)
+* [Ten Challenges and Opportunities for Crypto Investors](ten-challenges-and-opportunities-for-crypto-investors.md)
+* [Resources for Cryptocurrency Investors](resources-for-cryptocurrency-investors.md)
 

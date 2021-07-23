@@ -1,7 +1,3 @@
----
-description: test
----
-
 # Note
 
 » Staking: Holding a proof-of-stake coin in a special wallet 

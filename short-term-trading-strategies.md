@@ -39,7 +39,7 @@ Some sessions may provide better trading opportunities if the cryptocurrency you
 
 #### Week trading
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 ### Short-Term Analysis Methods
 
@@ -49,11 +49,11 @@ chart view to a shorter time frame **\(** [https://www.tradingview.com/](https:/
 
 * 30-minute chart \(to get a sense of the market sentiment\)
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
 * Hourly chart
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 * Four-hour chart \(to get an understanding of the bigger picture\)
 
