@@ -1,13 +1,13 @@
 # Cryptocurrency Mining
 
-* Get a crypto wallet
-* Make sure you have a strong Internet connection.
-* Set up your high-end computer in a cool location. By cool, I literally mean “low temperature” and not “stylish.”
-* Select the hardware to use based on the cryptocurrency you want to mine. I explain more about this in the next two sections.
-* If you want to mine solo \(not recommended\), download the whole cryptocurrency’s blockchain. Be prepared; for mature cryptos, downloading the whole blockchain may take days.
-* Get a mining software package \(flip to the later section on software for more\).
-* Join a mining pool. I explain more later in this chapter.
-* Make sure your expenses aren’t exceeding your rewards. I explain more later in this chapter
+1. Get a crypto wallet
+2. Make sure you have a strong Internet connection.
+3. Set up your high-end computer in a cool location. By cool, I literally mean “low temperature” and not “stylish.”
+4. Select the hardware to use based on the cryptocurrency you want to mine. I explain more about this in the next two sections.
+5. If you want to mine solo \(not recommended\), download the whole cryptocurrency’s blockchain. Be prepared; for mature cryptos, downloading the whole blockchain may take days.
+6. Get a mining software package \(flip to the later section on software for more\).
+7. Join a mining pool. I explain more later in this chapter.
+8. Make sure your expenses aren’t exceeding your rewards. I explain more later in this chapter
 
 ### See which cryptos are best to mine at a given time \(www.coinwarz.com\)
 
